@@ -1,4 +1,4 @@
-# Degrune_et_al_2023
+# Degrune_et_al_2024
 
 This folder contains the data and R codes to reproduce the data analysis and figures of the paper Degrune et al., 2023.
 
