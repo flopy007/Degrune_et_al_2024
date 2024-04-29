@@ -1,6 +1,6 @@
 # Degrune_et_al_2024
 
-This folder contains the data and R codes to reproduce the data analysis and figures of the paper Degrune et al., 2023.
+This folder contains the data and R codes to reproduce the data analysis and figures of the paper Degrune et al., 2024.
 
 The **scripts** folder contain all R scripts needed to reproduce the analysis. You should start with **01_dataPreparation.R** and continue with **02_dataAnalysis**.
 The unnumbered scripts are imbeded in the two R scripts and will be automatically run with the command source().
